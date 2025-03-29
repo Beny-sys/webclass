@@ -11,10 +11,8 @@ http://studentgroupwebclass.kesug.com/
 
 ![Login-Page](https://github.com/Beny-sys/webclass/blob/16748df6b275e7442e193eadedadb1e29f599d5a/image/Login.png?raw=true)
 
------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Forgot-password](https://github.com/Beny-sys/webclass/blob/260948bc78af666f9d4981e55444c9df77b7933f/image/Forgot-password.png?raw=true)
 
------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Login Page](https://github.com/Beny-sys/webclass/blob/260948bc78af666f9d4981e55444c9df77b7933f/image/Create-account.png?raw=true)
