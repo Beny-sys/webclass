@@ -3,7 +3,7 @@ Hello, welcome to my github page, in this post I will show you the login page fo
 
 To test your login, enter this fake email and password below.
 
-⚠️__This email and password have no validity. They are designed only for testing the site. Use this email and password to test logging into the site because this email and password are defined in the index file.__⚠️
+⚠️<ins>__This email and password have no validity. They are designed only for testing the site. Use this email and password to test logging into the site because this email and password are defined in the index file__</ins>⚠️
 
 ✉️Email : webclass@gmail.com        🔑Password : 12345
 
