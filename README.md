@@ -5,7 +5,8 @@ To test your login, enter this fake email and password below.
 
 ⚠️<ins>__This email and password have no validity. They are designed only for testing the site. Use this email and password to test logging into the site because this email and password are defined in the__</ins> [index file](https://github.com/Beny-sys/webclass/blob/main/codes/index.html)⚠️
 
-✉️**Email : webclass@gmail.com**     |   🔑**Password:12345**
+✉️**Email : webclass@gmail.com**
+🔑**Password : 12345**
 
 **[Check here for Email & Password](https://github.com/Beny-sys/webclass/blob/8928c667843cbec8943f3df75274aba729863da1/codes/index.html#L44)**
 
