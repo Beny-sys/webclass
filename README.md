@@ -9,5 +9,5 @@ To test your login, enter this fake email and password below.
 
 # http://studentgroupwebclass.kesug.com
 
-<img src="https://github.com/Beny-sys/webclass/blob/main/image/Home-page.png?raw=true" alt="Home-Page" width="250"> <img src="https://github.com/Beny-sys/webclass/blob/main/image/Login.png?raw=true" alt="Login-Page" width="250">
-<img src="https://github.com/Beny-sys/webclass/blob/main/image/Forgot-password.png?raw=true" alt="Forgot-Password" width="250"> <img src="https://github.com/Beny-sys/webclass/blob/main/image/Create-account.png?raw=true" alt="Create-Account" width="250">
+<img src="https://github.com/Beny-sys/webclass/blob/main/image/Home-page.png?raw=true" alt="Home-Page" width="333"> <img src="https://github.com/Beny-sys/webclass/blob/main/image/Login.png?raw=true" alt="Login-Page" width="333">
+<img src="https://github.com/Beny-sys/webclass/blob/main/image/Forgot-password.png?raw=true" alt="Forgot-Password" width="333"> <img src="https://github.com/Beny-sys/webclass/blob/main/image/Create-account.png?raw=true" alt="Create-Account" width="333">
