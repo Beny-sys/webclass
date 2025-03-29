@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home | WebClass</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="brand">WebClass</div>
+    <div class="user-menu">
+      <button class="user-btn" id="userBtn">
+        <div class="avatar">W</div>
+      </button>
+      <div class="dropdown" id="dropdown">
+        <a href="#" class="dropdown-item" onclick="logout()">Log Out</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="main-content">
+    <div class="hero-container">
+      <div class="hero-content">
+        <h1 class="welcome-title">WEB CLASS</h1>
+        <p class="welcome-subtitle">Welcome</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+  
+    document.getElementById('userBtn').addEventListener('click', function(e) {
+      e.stopPropagation();
+      document.getElementById('dropdown').classList.toggle('show');
+    });
+
+    document.addEventListener('click', function() {
+      document.getElementById('dropdown').classList.remove('show');
+    });
+
+    function logout() {
+      document.querySelector('.user-btn').innerHTML = `
+        <div class="avatar">W</div>
+        <span>Logging out...</span>
+      `;
+      setTimeout(() => window.location.href = 'index.html', 800);
+    }
+  </script>
+</body>
+</html>
